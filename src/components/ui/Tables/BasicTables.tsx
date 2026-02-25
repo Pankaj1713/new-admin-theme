@@ -108,7 +108,7 @@ const tableData: Order[] = [
   },
 ];
 
-export default function BasicTables() {
+export default function BasicTable() {
   return (
     <>
       <PageMeta
